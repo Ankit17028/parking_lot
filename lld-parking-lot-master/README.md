@@ -18,5 +18,4 @@ The project can be run as follows in one of the two ways:
  Example: ./bin/parking_lot.sh  ./file_input.txt
 2) **Using file based input:**: This will run the program in the interactive shell mode where commands can be typed in.  
   ./bin/parking_lot.sh 
-  
 
