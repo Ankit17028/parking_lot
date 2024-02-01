@@ -8,11 +8,11 @@ package com.parking;
 public class OutputPrinter {
 
   public void welcome() {
-    printWithNewLine("Welcome to Go-Jek Parking lot.");
+    printWithNewLine("Welcome to UrbanPark: Your Smart City Parking Solution!.");
   }
 
   public void end() {
-    printWithNewLine("Thanks for using Go-Jek Parking lot service.");
+    printWithNewLine("Thanks for using UrbanPark Parking service.");
   }
 
   public void notFound() {
@@ -20,7 +20,7 @@ public class OutputPrinter {
   }
 
   public void statusHeader() {
-    printWithNewLine("Slot No.    Registration No    Colour");
+    printWithNewLine("Slot No.    Registration No.    Colour");
   }
 
   public void parkingLotFull() {
